@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ChocolateMA : MonoBehaviour
+public class ChocolateMachine : MonoBehaviour
 {
     private Animator animChoco;
 

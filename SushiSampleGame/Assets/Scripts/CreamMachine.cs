@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
-public class RedWhiteMA : MonoBehaviour
+public class CreamMachine : MonoBehaviour
 {
     private Animator anim;
    

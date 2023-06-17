@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class IceMachine : MonoBehaviour
+public class CherryMachine : MonoBehaviour
 {
     private Animator animcherry;
 
